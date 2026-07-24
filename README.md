@@ -27,16 +27,16 @@
 
 ## 🛠️ Tech Stack
 
-| Category        | Technology    | Purpose                                              |
-| :-------------- | :------------ | :--------------------------------------------------- |
-| Language        | JavaScript    | Primary programming language for frontend logic      |
-| Runtime         | Node.js       | Powers the development environment and build tools   |
-| Framework       | React         | Building interactive and declarative user interfaces |
-| Build Tool      | Vite          | Next-generation frontend tooling for a fast development experience |
-| Styling         | Tailwind CSS  | Utility-first CSS framework for rapid UI development |
-| HTTP Client     | Axios         | Promise-based HTTP client for making API requests    |
-| Package Manager | npm           | Manages project dependencies and scripts             |
-| Linting         | ESLint        | Ensures code quality and consistency                 |
+| Category        | Technology   | Purpose                                              |
+| :-------------- | :----------- | :--------------------------------------------------- |
+| Language        | JavaScript   | Primary programming language for frontend logic      |
+| Runtime         | Node.js      | Powers the development environment and build tools   |
+| Framework       | React        | Building interactive and declarative user interfaces |
+| Build Tool      | Vite         | Next-generation frontend tooling for a fast development experience |
+| Styling         | Tailwind CSS | Utility-first CSS framework for rapid UI development |
+| HTTP Client     | Axios        | Promise-based HTTP client for making API requests    |
+| Package Manager | npm          | Manages project dependencies and scripts             |
+| Linting         | ESLint       | Ensures code quality and consistency                 |
 
 ---
 
